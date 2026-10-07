@@ -134,9 +134,7 @@
     "institution": "Ministria për Evropën dhe Punët e Jashtme",
     "description": "Aplikim online për vërtetim të certifikatës së martesës për përdorim pranë autoriteteve të vendit të rezidencës.",
     "eligibility": "Qytetarë shqiptarë që kanë nevojë ta përdorin vërtetimin pranë autoriteteve jashtë vendit.",
-    "documents": [
-      "Kopje e certifikatës së martesës."
-    ],
+    "documents": ["Kopje e certifikatës së martesës."],
     "steps": [
       "Identifikohu në e-Albania.",
       "Kërko “Aplikim për vërtetim certifikatë martese”.",
