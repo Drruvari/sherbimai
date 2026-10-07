@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="sq">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="ShërbimAI — asistent i orientimit për shërbime publike shqiptare." />
+  <title>ShërbimAI</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <main class="shell">
+    <header class="hero">
+      <div class="badge">Demo e verifikuar · 8 shërbime</div>
+      <h1>ShërbimAI</h1>
+      <p class="lede">
+        Pyet me fjalët e tua. Merr një përgjigje të strukturuar dhe burimin zyrtar.
+      </p>
+    </header>
+
+    <section class="card search-card">
+      <label for="question">Çfarë shërbimi të duhet?</label>
+      <div class="ask-row">
+        <input id="question" maxlength="500"
+          placeholder="p.sh. Jam në Itali dhe më duhet certifikata e martesës"
+          autocomplete="off" />
+        <button id="ask">Pyet</button>
+      </div>
+      <div class="examples" id="examples">
+        <button data-q="Si regjistroj fëmijën në klasë të parë?">Klasa e parë</button>
+        <button data-q="Sa kushton rinovimi i ADR?">Rinovim ADR</button>
+        <button data-q="Jam jashtë Shqipërisë dhe më duhet dëshmi penaliteti.">Dëshmi penaliteti</button>
+      </div>
+    </section>
+
+    <section id="status" class="status" aria-live="polite"></section>
+
+    <section id="result" class="card result hidden" aria-live="polite">
+      <div class="result-head">
+        <div>
+          <div class="eyebrow">Përputhja më e mirë</div>
+          <h2 id="service-title"></h2>
+        </div>
+        <span id="confidence" class="confidence"></span>
+      </div>
+
+      <div id="answer" class="answer"></div>
+
+      <div class="source-box">
+        <div>
+          <strong>Burimi zyrtar</strong>
+          <div id="verified" class="muted"></div>
+        </div>
+        <a id="source" target="_blank" rel="noopener noreferrer">Hap në e‑Albania ↗</a>
+      </div>
+
+      <details id="alternatives-wrap">
+        <summary>Alternativa të afërta</summary>
+        <div id="alternatives"></div>
+      </details>
+    </section>
+
+    <section class="scope">
+      <h3>Kufizimi i demos</h3>
+      <p>
+        Ky version mbulon vetëm shërbimet e listuara në dataset. Nuk është portal zyrtar
+        dhe nuk zëvendëson informacionin e e‑Albania. Përgjigjet ndërtohen vetëm nga të
+        dhëna të kuruara me burim.
+      </p>
+    </section>
+  </main>
+  <script src="/static/app.js"></script>
+</body>
+</html>

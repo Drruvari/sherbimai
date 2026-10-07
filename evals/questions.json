@@ -1,0 +1,130 @@
+[
+  {
+    "question": "Si marr vërtetim për pagesën e PAK?",
+    "expected_id": "pak-certificate"
+  },
+  {
+    "question": "Më duhet një dokument për aftësinë e kufizuar.",
+    "expected_id": "pak-certificate"
+  },
+  {
+    "question": "A kushton vërtetimi i invaliditetit?",
+    "expected_id": "pak-certificate"
+  },
+  {
+    "question": "Ku e shkarkoj vërtetimin e pagesës PAK?",
+    "expected_id": "pak-certificate"
+  },
+  {
+    "question": "Si marr vërtetim që diploma ime po njihet?",
+    "expected_id": "diploma-recognition-status"
+  },
+  {
+    "question": "Kam bërë njësimin e diplomës së huaj, dua statusin.",
+    "expected_id": "diploma-recognition-status"
+  },
+  {
+    "question": "Më duhet vërtetim për procesin e njohjes së diplomës.",
+    "expected_id": "diploma-recognition-status"
+  },
+  {
+    "question": "A paguhet vërtetimi i njësimit të diplomës?",
+    "expected_id": "diploma-recognition-status"
+  },
+  {
+    "question": "Si regjistroj vajzën në klasë të parë?",
+    "expected_id": "first-grade-registration"
+  },
+  {
+    "question": "Dua të regjistroj fëmijën 6 vjeç në shkollë.",
+    "expected_id": "first-grade-registration"
+  },
+  {
+    "question": "Çfarë dokumentesh duhen për klasën e parë?",
+    "expected_id": "first-grade-registration"
+  },
+  {
+    "question": "Sa zgjat regjistrimi në shkollën fillore?",
+    "expected_id": "first-grade-registration"
+  },
+  {
+    "question": "Jam jashtë Shqipërisë dhe më duhet dëshmi penaliteti.",
+    "expected_id": "criminal-record-abroad"
+  },
+  {
+    "question": "Si marr criminal record nga konsullata?",
+    "expected_id": "criminal-record-abroad"
+  },
+  {
+    "question": "Çfarë dokumentesh duhen për dëshmi penaliteti jashtë vendit?",
+    "expected_id": "criminal-record-abroad"
+  },
+  {
+    "question": "Më duhet verifikim i gjendjes gjyqësore nga ambasada.",
+    "expected_id": "criminal-record-abroad"
+  },
+  {
+    "question": "Më duhet vërtetim i certifikatës së martesës për jashtë.",
+    "expected_id": "marriage-verification-abroad"
+  },
+  {
+    "question": "Sa kushton vërtetimi i martesës nga konsullata?",
+    "expected_id": "marriage-verification-abroad"
+  },
+  {
+    "question": "Sa kohë merr vërtetimi i certifikatës së martesës?",
+    "expected_id": "marriage-verification-abroad"
+  },
+  {
+    "question": "Dua certifikatë martese të vërtetuar për autoritetet e huaja.",
+    "expected_id": "marriage-verification-abroad"
+  },
+  {
+    "question": "Më duhet vërtetim konsullor për të dhënat personale.",
+    "expected_id": "personal-data-consular"
+  },
+  {
+    "question": "Si vërtetoj të dhënat e mia personale nga konsullata?",
+    "expected_id": "personal-data-consular"
+  },
+  {
+    "question": "Çfarë dokumentesh duhen për vërtetim personal jashtë Shqipërisë?",
+    "expected_id": "personal-data-consular"
+  },
+  {
+    "question": "Kam nevojë për vërtetim identiteti konsullor.",
+    "expected_id": "personal-data-consular"
+  },
+  {
+    "question": "Jetoj në Itali dhe më duhet certifikata e martesës.",
+    "expected_id": "marriage-certificate-italy"
+  },
+  {
+    "question": "Sa kushton certifikata e martesës për rezidentët në Itali?",
+    "expected_id": "marriage-certificate-italy"
+  },
+  {
+    "question": "Çfarë dokumenti rezidence duhet për certifikatën e martesës në Itali?",
+    "expected_id": "marriage-certificate-italy"
+  },
+  {
+    "question": "Sa zgjat certifikata e martesës nga konsullata në Itali?",
+    "expected_id": "marriage-certificate-italy"
+  },
+  {
+    "question": "Si rinovoj ADR?",
+    "expected_id": "adr-renewal"
+  },
+  {
+    "question": "Më ka skaduar certifikata për mallra të rrezikshme.",
+    "expected_id": "adr-renewal"
+  },
+  {
+    "question": "Sa kushton rinovimi i certifikatës ADR?",
+    "expected_id": "adr-renewal"
+  },
+  {
+    "question": "Çfarë dokumentesh duhen për rinovim ADR?",
+    "expected_id": "adr-renewal"
+  }
+]

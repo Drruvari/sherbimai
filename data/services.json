@@ -1,0 +1,263 @@
+[
+  {
+    "id": "pak-certificate",
+    "title": "Vërtetim mbi pagesën e aftësisë së kufizuar (PAK)",
+    "category": "Shëndetësia dhe Mirëqenia Sociale",
+    "institution": "Shërbimi Social Shtetëror",
+    "description": "Gjeneron online një vërtetim me vulë elektronike për përfitimin e pagesës së aftësisë së kufizuar.",
+    "eligibility": "Mund të përdoret nga vetë personi ose nga prindi për fëmijën deri në 16 vjeç.",
+    "documents": [],
+    "steps": [
+      "Identifikohu si qytetar në e-Albania.",
+      "Kërko shërbimin “Vërtetim mbi pagesën e aftësisë së kufizuar (PAK)”.",
+      "Kliko “Përdor”.",
+      "Zgjidh aplikimin për veten ose për fëmijën deri në 16 vjeç.",
+      "Shkarko dokumentin e vulosur; ai mbetet edhe te “Dokumentet e mia”."
+    ],
+    "processing_time": "Menjëherë",
+    "validity": "Sipas afatit të vendimit",
+    "cost": "Pa pagesë",
+    "notes": "Nuk kërkohet dokumentacion shoqërues.",
+    "aliases": [
+      "vertetim pak",
+      "pagesa e aftesise se kufizuar",
+      "invaliditet",
+      "vertetim invaliditeti",
+      "pagesa pak",
+      "aftesi e kufizuar"
+    ],
+    "source_url": "https://e-albania.al/ServiceDetails/13839",
+    "verified_at": "2026-10-07"
+  },
+  {
+    "id": "diploma-recognition-status",
+    "title": "Vërtetim që diploma është në proces njohjeje",
+    "category": "Arsimi",
+    "institution": "Qendra e Shërbimeve Arsimore",
+    "description": "Gjeneron vërtetim se një aplikim për njohjen/njësimin e një diplome të huaj është në proces.",
+    "eligibility": "Për persona që kanë bërë më parë aplikimin online për njësimin e diplomës ose certifikatës së arsimit të lartë të marrë jashtë shtetit.",
+    "documents": [],
+    "steps": [
+      "Hap shërbimin në e-Albania.",
+      "Krijo një aplikim të ri.",
+      "Vendos numrin e referencës së aplikimit për njësimin e diplomës.",
+      "Dërgo kërkesën.",
+      "Vërtetimi me vulë elektronike gjenerohet në hapësirën e përdoruesit."
+    ],
+    "processing_time": "Menjëherë",
+    "validity": "Deri në përfundimin e njohjes dhe njësimit të diplomës",
+    "cost": "Pa pagesë",
+    "notes": "Shërbimi kërkon që aplikimi për njësimin e diplomës të jetë bërë më parë.",
+    "aliases": [
+      "njohje diplome",
+      "njesim diplome",
+      "diplome e huaj",
+      "vertetim diplome",
+      "status njohje diplome",
+      "ekuivalentim diplome"
+    ],
+    "source_url": "https://e-albania.al/ServiceDetails/14162",
+    "verified_at": "2026-10-07"
+  },
+  {
+    "id": "first-grade-registration",
+    "title": "Regjistrimi në klasë të parë",
+    "category": "Arsimi",
+    "institution": "Agjencia Kombëtare e Arsimit Parauniversitar",
+    "description": "Aplikim online për regjistrimin e fëmijës në klasën e parë në arsimin bazë parauniversitar.",
+    "eligibility": "Fëmijët që mbushin 6 vjeç deri më 31 dhjetor të vitit kalendarik; aplikon personi që ushtron përgjegjësinë prindërore.",
+    "documents": [
+      "Dokumenti i kujdestarisë ligjore, vetëm kur aplikon kujdestari ligjor."
+    ],
+    "steps": [
+      "Identifikohu si qytetar në e-Albania.",
+      "Kërko “Regjistrimi në klasë të parë”.",
+      "Kliko “Përdor”.",
+      "Plotëso formularin dhe dërgo aplikimin.",
+      "Shkolla përkatëse shqyrton kërkesën dhe njofton elektronikisht për vendimin."
+    ],
+    "processing_time": "Deri në 10 ditë",
+    "validity": "Sipas procesit të regjistrimit për vitin shkollor",
+    "cost": "Pa pagesë",
+    "notes": "Për ciklin 2026, faqja zyrtare publikoi si afat aplikimi 11–12 shtator 2026; ky afat ka kaluar.",
+    "aliases": [
+      "regjistrim ne klase te pare",
+      "regjistroj femijen ne shkolle",
+      "klasa e pare",
+      "regjistrim shkolle",
+      "femija 6 vjec",
+      "shkolla fillore"
+    ],
+    "source_url": "https://mobile.e-albania.al/ServiceDetails/10117",
+    "verified_at": "2026-10-07"
+  },
+  {
+    "id": "criminal-record-abroad",
+    "title": "Aplikim për vërtetim mbi verifikimin e gjendjes gjyqësore (Dëshmi Penaliteti)",
+    "category": "Shërbime Konsullore",
+    "institution": "Ministria për Evropën dhe Punët e Jashtme",
+    "description": "U mundëson shtetasve shqiptarë që jetojnë jashtë Shqipërisë të kërkojnë verifikimin e gjendjes gjyqësore / dëshminë e penalitetit përmes përfaqësive diplomatike dhe konsullore.",
+    "eligibility": "Shtetas shqiptarë rezidentë jashtë territorit të Shqipërisë.",
+    "documents": [
+      "Fotokopje e kartës së identitetit ose pasaportës.",
+      "Mandat-pagesa sipas udhëzimeve të përfaqësisë konsullore.",
+      "Autorizimi origjinal i nënshkruar, kur kërkohet nga procedura.",
+      "Zarf postar i parapaguar me adresën e marrësit, sipas udhëzimeve."
+    ],
+    "steps": [
+      "Identifikohu në e-Albania.",
+      "Hap shërbimin për verifikimin e gjendjes gjyqësore / Dëshmi Penaliteti.",
+      "Krijo aplikim të ri dhe plotëso të dhënat.",
+      "Ngarko dokumentet e kërkuara.",
+      "Ndiq e-mailin për pagesën, dokumentet origjinale dhe statusin e aplikimit.",
+      "Dokumenti dërgohet sipas procedurës së përfaqësisë konsullore."
+    ],
+    "processing_time": "Varet nga përfaqësia konsullore dhe verifikimet",
+    "validity": "Kontrollo afatin në dokumentin e lëshuar / kërkesat e institucionit pritës",
+    "cost": "Sipas tarifës dhe udhëzimeve të përfaqësisë konsullore",
+    "notes": "Ky rekord i referohet shërbimit konsullor për shqiptarët jashtë vendit.",
+    "aliases": [
+      "deshmi penaliteti",
+      "gjendje gjyqesore",
+      "certifikate penaliteti",
+      "penalitet jashte shqiperise",
+      "criminal record",
+      "deshmi penaliteti konsullore"
+    ],
+    "source_url": "https://e-albania.al/ServiceDetails/12583",
+    "verified_at": "2026-10-07"
+  },
+  {
+    "id": "marriage-verification-abroad",
+    "title": "Aplikim për vërtetim certifikatë martese",
+    "category": "Shërbime Konsullore",
+    "institution": "Ministria për Evropën dhe Punët e Jashtme",
+    "description": "Aplikim online për vërtetim të certifikatës së martesës për përdorim pranë autoriteteve të vendit të rezidencës.",
+    "eligibility": "Qytetarë shqiptarë që kanë nevojë ta përdorin vërtetimin pranë autoriteteve jashtë vendit.",
+    "documents": [
+      "Kopje e certifikatës së martesës."
+    ],
+    "steps": [
+      "Identifikohu në e-Albania.",
+      "Kërko “Aplikim për vërtetim certifikatë martese”.",
+      "Kliko “Përdor” dhe krijo aplikim të ri.",
+      "Plotëso formularin dhe ngarko dokumentin e kërkuar.",
+      "Ndiq udhëzimet për dokumentacionin origjinal dhe pagesën.",
+      "Njoftimi për përfundimin dhe dërgimin bëhet me e-mail."
+    ],
+    "processing_time": "10–30 ditë",
+    "validity": "12 muaj",
+    "cost": "30 euro ose kundërvlera në monedhën vendase",
+    "notes": "Nëpunësi mund të sigurojë nga regjistri certifikatën e lindjes ose familjare që kërkohet për verifikim.",
+    "aliases": [
+      "vertetim martese",
+      "certifikate martese jashte",
+      "martese konsullore",
+      "vertetim certifikate martese",
+      "certifikate martese per jashte"
+    ],
+    "source_url": "https://e-albania.al/ServiceDetails/9486",
+    "verified_at": "2026-10-07"
+  },
+  {
+    "id": "personal-data-consular",
+    "title": "Aplikim për vërtetim konsullor mbi të dhënat personale",
+    "category": "Shërbime Konsullore",
+    "institution": "Ministria për Evropën dhe Punët e Jashtme",
+    "description": "Aplikim online për vërtetim konsullor mbi të dhënat personale për shtetas shqiptarë rezidentë jashtë vendit.",
+    "eligibility": "Shtetas shqiptarë rezidentë jashtë territorit të Shqipërisë.",
+    "documents": [
+      "Dokument identifikimi shqiptar: pasaportë ose kartë identiteti.",
+      "Dokumente mbështetëse që justifikojnë nevojën për vërtetimin.",
+      "Mandat-pagesa sipas procedurës."
+    ],
+    "steps": [
+      "Identifikohu në e-Albania.",
+      "Hap shërbimin “Aplikim për vërtetim konsullor mbi të dhënat personale”.",
+      "Krijo aplikim të ri dhe plotëso formularin.",
+      "Ngarko dokumentet e kërkuara.",
+      "Ndiq udhëzimet e ambasadës/konsullatës për pagesën dhe dokumentet origjinale.",
+      "Përfundimi i aplikimit njoftohet me e-mail."
+    ],
+    "processing_time": "Sipas përfaqësisë konsullore dhe verifikimeve",
+    "validity": "Sipas dokumentit të lëshuar dhe qëllimit të përdorimit",
+    "cost": "Sipas tarifës së shërbimit konsullor",
+    "notes": "Të dhënat bazë të gjendjes civile mund të verifikohen nga administrata përmes regjistrave shtetërorë.",
+    "aliases": [
+      "vertetim konsullor",
+      "te dhenat personale",
+      "vertetim personal jashte",
+      "konsullata te dhena personale",
+      "vertetim identiteti konsullor"
+    ],
+    "source_url": "https://e-albania.al/ServiceDetails/9488",
+    "verified_at": "2026-10-07"
+  },
+  {
+    "id": "marriage-certificate-italy",
+    "title": "Aplikim për certifikatë martese (vetëm për Italinë)",
+    "category": "Shërbime Konsullore",
+    "institution": "Ministria për Evropën dhe Punët e Jashtme",
+    "description": "Shërbim për shtetas shqiptarë rezidentë në Itali që kërkojnë certifikatën e martesës përmes përfaqësisë konsullore.",
+    "eligibility": "Vetëm për shtetas shqiptarë rezidentë në Itali.",
+    "documents": [
+      "Kartë ose certifikatë rezidence e lëshuar nga komuna ku figuron vendbanimi."
+    ],
+    "steps": [
+      "Identifikohu në e-Albania.",
+      "Kërko shërbimin “Aplikim për certifikatë martese (vetëm për Italinë)”.",
+      "Kliko “Përdor” dhe krijo aplikim të ri.",
+      "Plotëso formularin dhe ngarko dokumentin e rezidencës.",
+      "Ndiq udhëzimet për pagesën dhe dërgimin e mandatit origjinal.",
+      "Njoftimi për përfundimin dhe dërgimin bëhet me e-mail."
+    ],
+    "processing_time": "10–30 ditë",
+    "validity": "6 muaj",
+    "cost": "20 euro",
+    "notes": "Shërbimi është specifik për rezidentët në Itali.",
+    "aliases": [
+      "certifikate martese itali",
+      "martese ne itali",
+      "certifikate martese per itali",
+      "rezident ne itali martese",
+      "certifikata e marteses itali"
+    ],
+    "source_url": "https://e-albania.al/ServiceDetails/9769",
+    "verified_at": "2026-10-07"
+  },
+  {
+    "id": "adr-renewal",
+    "title": "Rinovim i Certifikatës së Trajnimit ADR",
+    "category": "Transport dhe Automjete",
+    "institution": "Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor",
+    "description": "Aplikim për rinovimin e certifikatës ADR për drejtues mjetesh që transportojnë mallra të rrezikshme.",
+    "eligibility": "Drejtues mjetesh që plotësojnë kushtet për rinovimin e certifikatës së trajnimit ADR.",
+    "documents": [
+      "Fotokopje e lejes së drejtimit.",
+      "Fotokopje e certifikatës ADR.",
+      "Fotografi.",
+      "Mandat-pagesa."
+    ],
+    "steps": [
+      "Identifikohu si qytetar në e-Albania.",
+      "Kërko “Rinovim i Certifikatës së Trajnimit ADR”.",
+      "Kliko “Përdor”.",
+      "Plotëso formularin dhe ngarko dokumentet.",
+      "Kliko “Dërgo” në fund të formularit."
+    ],
+    "processing_time": "1 muaj nga data e aplikimit",
+    "validity": "5 vjet",
+    "cost": "6500 lekë",
+    "notes": "Vërtetimi i banimit sigurohet nga administrata sipas informacionit të publikuar nga shërbimi.",
+    "aliases": [
+      "rinovim adr",
+      "certifikate adr",
+      "mallra te rrezikshme",
+      "shofer adr",
+      "rinovoj adr",
+      "certifikata e trajnimit adr"
+    ],
+    "source_url": "https://e-albania.al/ServiceDetails/13785",
+    "verified_at": "2026-10-07"
+  }
+]
